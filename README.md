@@ -3,8 +3,8 @@
 ## I'm SAP Specialist and Student! 
 
 - 🔭 I’m currently working at [Sibur Digital](https://www.sibur.digital/)
-- 🌱 I'm currently studying at [Gubkin University](https://www.gubkin.ru/)
-- 🥅 2024 Goal: Become a Data Analyst
+- 🌱 I'm currently studying at [Gubkin University](https://www.gubkin.ru/) and [Yandex Practicum](https://practicum.yandex.ru/)
+- 🥅 2025 Goal: Become a Data Scientist
 - 🔮 I can predict the future... with a 95% confidence interval
 - 🥧 I can explain your life choices with a pie chart 
 
