@@ -1,4 +1,4 @@
-### Hi there, I'm Andrey Semenov - aka sezentt 👋
+### Hi there, I'm Andrey Semenov - aka sezent 👋
 
 ## I'm SAP Specialist and Student! 
 
