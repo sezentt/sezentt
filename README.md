@@ -1,7 +1,7 @@
 # Hi there, I'm Andrey Semenov - aka sezent 👋
 
 ## 🧠 Machine Learning Specialist
-- 📊 2 years of experience in Machine Learning and Data Science
+- 📊 3 years of experience in Machine Learning and Data Science
 - 🔍 Hands-on practice in data analysis, building and deploying ML models
 - 🏭 Background in oil & gas industry and SAP systems
 - 🤖 Areas of interest: neural networks, time series forecasting, applied ML in industry
@@ -13,7 +13,7 @@
 ## 🛠️ Skills
 - 💻 Programming Languages: Python, C++
 - 🤖 ML/DL Frameworks: scikit-learn, PyTorch, CatBoost, LightGBM, XGBoost
-- 🗄️ Data & Storage: PostgreSQL, Spark
+- 🗄️ Data & Storage: PostgreSQL, PySpark
 - ⚙️ ML Engineering: Airflow, MLflow, DVC, Docker, Git, FastAPI
 - 📊 Analytics & Visualization: Tableau, DataLens, Seaborn, Plotly
 - 🔬 ML Practices: cross-validation, feature engineering, class balancing (SMOTE, ADASYN, Tomek Links), model interpretability (SHAP)
